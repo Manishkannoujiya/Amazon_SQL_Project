@@ -21,6 +21,19 @@ The primary objective of this project is to explore, analyze, and derive actiona
 
 This objective helps in simulating real-world business intelligence practices for an e-commerce environment.
 
+## Use cases of the Project
+Here are several practical use cases for your SQL project on Amazon product analysis using pgAdmin:
+* Product Performance Evaluation
+* Dynamic Priceing & Discount Optimization
+* Customer Sentiment Monitoring
+* Category-Based Market Research
+* Reviewer Behaviour Tracking
+* Marketing & Content Strategy
+* Quality Control & Product Improvement
+* Multimedia & Lising Integrity Audit
+* Data Cleaning Normalization
+* Inventory & Vendor Decision Support
+
 ## Conclusion
 Through this SQL project, we successfully demonstrated how raw Amazon product data can be transformed into meaningful insights using powerful SQL queries. The analysis provided a deeper understanding of product performance, customer preferences, review quality, and market trends. The queries also highlight potential issues such as products with missing ratings, frequent complaints, or misleading discounts. This analytical approach not only supports data-driven decision-making but also showcases the practical value of SQL in handling and interpreting large-scale retail data.
 
